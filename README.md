@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aykhan Alizadeh</h1>
 <h3 align="center">A Junior Front End Developer in Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Java (Back End Development)**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Javascript, Python, Numpy, Pandas and so.**
 
