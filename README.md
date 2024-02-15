@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hi 👋! My name is Aykhan and I'm a Front End Developer, from Azerbaijan</b></h2>
+<h2 align="center"><b>Hi 👋! My name is Aykhan and I'm a Front End Developer from Azerbaijan</b></h2>
 
 ###
 
@@ -54,6 +54,7 @@
   </a>
 </div>
 
+<h2>Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Alizadekh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alizadekh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
