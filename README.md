@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizadekh&label=Profile%20views&color=0e75b6&style=flat" alt="alizadekh" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://medium.com/@aykhanalizadekh](https://medium.com/@aykhanalizadekh)
 
